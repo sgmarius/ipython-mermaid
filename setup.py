@@ -10,7 +10,7 @@ setup(
   author = 'Marius Sandu',
   author_email = 'marius@ltng-bi.com',
   url = 'https://github.com/sgmarius/ipython-mermaid',
-  download_url = 'https://github.com/sgmarius/ipython-mermaid/blob/main/dist/ipython-mermaid-magic-0.2.tar.gz',
+  download_url = 'https://github.com/sgmarius/ipython-mermaid/blob/main/dist/ipython-mermaid-magic-0.3.tar.gz',
   keywords = ['IPython', 'Mermaid'],
   install_requires=[
           'IPython',
