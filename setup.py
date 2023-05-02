@@ -4,7 +4,7 @@ from distutils.core import setup
 setup(
   name = 'ipython-mermaid-magic',
   packages = ['MermaidMagic'],
-  version = '0.3',
+  version = '0.4',
   license='MIT',
   description = 'Cell magic to allow for usage of mermaid notation inside Databricks',
   author = 'Marius Sandu',

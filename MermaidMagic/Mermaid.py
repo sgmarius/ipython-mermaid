@@ -3,7 +3,7 @@ from IPython.display import display, HTML
 
 
 @register_cell_magic
-def mermaid(self, line: str, cell: str) -> None:
+def mermaid(line: str, cell: str) -> None:
     """
     inspired from https://github.com/oruelle/md_mermaid;
     """
