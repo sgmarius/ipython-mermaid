@@ -4,14 +4,14 @@ from distutils.core import setup
 setup(
   name = 'ipython-mermaid-magic',
   packages = ['MermaidMagic'],
-  version = '0.2',
+  version = '0.3',
   license='MIT',
   description = 'Cell magic to allow for usage of mermaid notation inside Databricks',
   author = 'Marius Sandu',
   author_email = 'marius@ltng-bi.com',
   url = 'https://github.com/sgmarius/ipython-mermaid',
-  download_url = 'https://github.com/sgmarius/databricks-mermaid/blob/main/dist/databricks-mermaid-0.1.tar.gz',
-  keywords = ['Databricks', 'Mermaid'],
+  download_url = 'https://github.com/sgmarius/ipython-mermaid/blob/main/dist/ipython-mermaid-magic-0.2.tar.gz',
+  keywords = ['IPython', 'Mermaid'],
   install_requires=[
           'IPython',
       ],
